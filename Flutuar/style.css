@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    margin-right: 0% ;
+}
+
+
+#globo {
+    text-align: center;
+    margin: 64px 337px 32px;
+}
+
+h1 strong{
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color: #3F3D56;
+    margin-bottom: 16px;
+}
+
+
+#textoos span{
+    color: #828282;
+    font-weight: 700;
+}
+
+#textoos strong{
+    color: #3F3D56;
+    font-weight: 700;
+}
+
+#textoos p{
+    color: #828282;
+    font-weight: 400;
+}
+
+#textoos {
+text-align: center;
+width: 540px;
+margin: auto;
+font-size: 15px;
+line-height: 22px;
+}
+
+#ofertas {
+    text-align: center;
+    width: 626px;
+    font-size: 15px;
+    margin-top: 32px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color:#828282;
+}
+
+#linha{
+    border: 1px solid #ECEFF2;
+    width: 391px;
+    height: 0px;
+    margin: 64px auto 16px;
+}
+
+#footer a + a{
+    margin-left: 42px;
+}
+
+#footer a{
+    text-decoration: none;
+    color: #3F3D56;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+main .onda{
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
